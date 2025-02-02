@@ -2,15 +2,15 @@
 Aplicación C# con Windows Forms conectada a una BBDD Oracle SQL
 
 Este proyecto desarrollado en C# (Windows Forms) con Oracle SQL permite la gestión completa de competiciones de ciclismo, incluyendo el registro, edición y control de ciclistas y eventos.
-# Funcionalidades Implementadas:
+O Funcionalidades Implementadas:
 
-# Gestión de Competiciones:
+O Gestión de Competiciones:
 
     * Crear, editar y eliminar competiciones.
     * Listar competiciones en un ComboBox, mostrando ciudad y fecha.
     * Marcar competiciones como borradas en lugar de eliminarlas físicamente.
 
-# Gestión de Ciclistas:
+O Gestión de Ciclistas:
 
     * Registro individual y múltiple de ciclistas en una competición.
     * Edición y eliminación (borrado lógico) de ciclistas.
@@ -18,7 +18,7 @@ Este proyecto desarrollado en C# (Windows Forms) con Oracle SQL permite la gesti
     * Filtrar ciclistas por competición seleccionada.
     * Asignación automática de dorsales con ObtenerMaxDorsal().
 
-# Optimización y Mejoras:
+O Optimización y Mejoras:
 
     * Centralización de la conexión a la base de datos (Parametros.cs).
     * Modularización del código, separando la lógica en funciones y clases (Ciclista, Competicion).
