@@ -1,0 +1,38 @@
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Buffers.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Memory.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Text.Json.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.ValueTuple.dll
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Buffers.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Memory.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Text.Json.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\bin\Debug\System.ValueTuple.xml
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\ProyectoCiclistasForms v1.csproj.AssemblyReference.cache
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.FormAgregarCiclista.resources
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\ProyectoCiclistasForms v1.csproj.GenerateResource.cache
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\ProyectoCiclistasForms v1.csproj.CoreCompileInputs.cache
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\Proyecto.9A68A335.Up2Date
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.FormMenu.resources
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.FormListarCiclistas.resources
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.FormEliminarCiclista.resources
+C:\Users\Moha\source\repos\Proyecto Ciclistas Windows Forms v1\obj\Debug\WindowsFormsApp1.FormListarCiclistasBorrados.resources

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\formcompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formcompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formcompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formcompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formagregarciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formagregarciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formactualizarestadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formactualizarestadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formeliminarciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formeliminarciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\listarciclistasborrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:listarciclistasborrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formlistarciclistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formlistarciclistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formlistarpendientespago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formlistarpendientespago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formrergistrarvariosciclistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formrergistrarvariosciclistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\formnuevacompeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formnuevacompeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|c:\\users\\moha\\source\\repos\\proyecto ciclistas windows forms v5.2\\formeditarcompeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5897307-68A9-4A70-8369-A9948EB68CB4}|ProyectoCiclistasForms v5.csproj|solutionrelative:formeditarcompeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCompeticiones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormCompeticiones.cs",
+              "RelativeDocumentMoniker": "FormCompeticiones.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormCompeticiones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormCompeticiones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:25:30.567Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCompeticiones.cs",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormCompeticiones.cs",
+              "RelativeDocumentMoniker": "FormCompeticiones.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormCompeticiones.cs",
+              "RelativeToolTip": "FormCompeticiones.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwIEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:55:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarCiclistasBorrados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\ListarCiclistasBorrados.cs",
+              "RelativeDocumentMoniker": "ListarCiclistasBorrados.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\ListarCiclistasBorrados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListarCiclistasBorrados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:17:29.228Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormRergistrarVariosCiclistas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormRergistrarVariosCiclistas.cs",
+              "RelativeDocumentMoniker": "FormRergistrarVariosCiclistas.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormRergistrarVariosCiclistas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormRergistrarVariosCiclistas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:15:34.799Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormListarPendientesPago.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormListarPendientesPago.cs",
+              "RelativeDocumentMoniker": "FormListarPendientesPago.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormListarPendientesPago.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormListarPendientesPago.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:11:29.808Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormListarCiclistas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormListarCiclistas.cs",
+              "RelativeDocumentMoniker": "FormListarCiclistas.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormListarCiclistas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormListarCiclistas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:09:53.212Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEliminarCiclista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormEliminarCiclista.cs",
+              "RelativeDocumentMoniker": "FormEliminarCiclista.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormEliminarCiclista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEliminarCiclista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:06:52.102Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAgregarCiclista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormAgregarCiclista.cs",
+              "RelativeDocumentMoniker": "FormAgregarCiclista.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormAgregarCiclista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAgregarCiclista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:03:43.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormActualizarEstadoPago.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormActualizarEstadoPago.cs",
+              "RelativeDocumentMoniker": "FormActualizarEstadoPago.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormActualizarEstadoPago.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormActualizarEstadoPago.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:01:52.612Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:42:03.641Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormEditarCompeticion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormEditarCompeticion.cs",
+              "RelativeDocumentMoniker": "FormEditarCompeticion.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormEditarCompeticion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEditarCompeticion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:09:24.488Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormNuevaCompeticion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormNuevaCompeticion.cs",
+              "RelativeDocumentMoniker": "FormNuevaCompeticion.cs",
+              "ToolTip": "C:\\Users\\Moha\\source\\repos\\Proyecto Ciclistas Windows Forms v5.2\\FormNuevaCompeticion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormNuevaCompeticion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:54:03.453Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
